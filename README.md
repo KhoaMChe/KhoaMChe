@@ -20,7 +20,7 @@
 - Level        : 21
 - Region       : HCMUT-VNU-HCM
 - Class        : Computer Science
-- Specialty    : Data Science / Machine Learning
+- Specialty    : Data Science / Data Engineer
 
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXlrYng3bG5zcHR2bWNyNmF6M3docHJ5bzN5ZHU5eGFzemJpbm4yaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/61p8hoGnucpHi/giphy.gif" width="20%" />
